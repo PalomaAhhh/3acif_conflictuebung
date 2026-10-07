@@ -2,7 +2,7 @@ public class Conflict
 {
     private String name;
     private int alter;
-    private boolean matura;
+
     
    public String getName()
     {
@@ -14,8 +14,4 @@ public class Conflict
         return alter;
     }
 
-    public boolean getMatura()
-    {
-        return matura;
-    }
 }
